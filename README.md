@@ -1,4 +1,3 @@
-
 ## NetPractice
 
 NetPractice is a networking project that is part of the Hive Helsinki curriculum, aimed at understanding and applying fundamental concepts of TCP/IP addressing and network configuration. The project requires configuring small-scale networks and ensuring proper connectivity between devices by correctly setting up IP addresses, subnet masks, and routing.
